@@ -1,1 +1,3 @@
 git push origin main, git clone, git commit -m, git add
+git checkout <depot-local></depot-local>
+git pull <depot-distant></depot-distant>
